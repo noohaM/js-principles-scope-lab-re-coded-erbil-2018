@@ -15,5 +15,5 @@ function overwriteBestCustomer(){
 }
 leastFavoriteCustomer = 'nm'
 function changeLeastFavoriteCustomer(){
-  leastFavoriteCustomer=leastFavoriteCustomer.toLowerCase  
+  leastFavoriteCustomer=leastFavoriteCustomer.toLowerCase()  
 }
