@@ -1,4 +1,6 @@
 // Write your solution in this file!
 let customerName = 'bob;'
 
-function 
+function nooha (){
+  return customerName
+}
