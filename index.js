@@ -1,6 +1,3 @@
 // Write your solution in this file!
-let customerName = 'bob;'
-
-function nooha (){
-  return customerName
-}
+var customerName = 'bob'
+const leastFavoriteCustomer = 'Noor'
